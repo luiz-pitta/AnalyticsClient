@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/InfoPAE-Model"/>
+	<classpathentry kind="lib" path="C:/Users/luizg/eclipse-workspace/AnalyticsClient/libs/contextnet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/luizg/eclipse-workspace/AnalyticsClient/libs/json-20140107.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
